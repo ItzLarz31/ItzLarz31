@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shawn Dishman (Larz)</h1>
 <h3 align="center">A passionate frontend developer from Kentucky</h3>
 
-- 🔭 I’m currently working on **TripleTen Bootcamp**
+- 🔭 I’m currently working on **TripleTen**
 
 - 🌱 I’m currently learning **Javascript, React, Webpack, Rest API, Node.js, Express.js, MongoDB, and Google Cloud with TripleTen**
 
-- 👨‍💻 All of my projects are available at https://itzlarz31.github.io/se_project_aroundtheus/
+- 👨‍💻 All of my projects are available at https://github.com/ItzLarz31/se_project_aroundtheus
 
 - ⚡ Fun fact **I have made games on Roblox using their studio with LUA.**
 
