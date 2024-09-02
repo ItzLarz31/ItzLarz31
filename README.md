@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shawn Dishman</h1>
-<h3 align="center">A passionate frontend developer from Kentucky</h3>
+<h3 align="center">A passionate full-stack MERN developer from Kentucky</h3>
 
-- 🔭 I’m currently working on **TripleTen**
+- 🔭 I’m currently working on **personal website/portfolio**
 
-- 🌱 I’m currently learning **Javascript, React, Webpack, Rest API, Node.js, Express.js, MongoDB, and Google Cloud with TripleTen**
+- 🌱 I’m currently learning **Software Development**
 
-- 👨‍💻 All of my projects are available at https://github.com/ItzLarz31/se_project_aroundtheus
+- 👨‍💻 All of my projects are available at TBA
 
 - ⚡ Fun fact **I have made games on Roblox using their studio with LUA.**
 
