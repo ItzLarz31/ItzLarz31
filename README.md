@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **freelancing**
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning C# **Software Development** with CodeYou
 
 - 👨‍💻 All of my projects are available at https://www.shawndishman.dev
 
