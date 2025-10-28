@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shawn Dishman</h1>
-<h3 align="center">A passionate Full-stack Developer in the MERN stack from Kentucky</h3>
+<h1 align="center">Hi 👋, I'm Shawn A.K.A (Larz)</h1>
+<h3 align="center">A passionate Full-stack Developer in from Kentucky</h3>
 
-- 🔭 I’m currently **freelancing**
+- 🔭 I’m currently working full-time as a Full-stack Developer.
 
 - 🌱 I’m currently learning C# **Software Development** with CodeYou
-
-- 👨‍💻 All of my projects are available at https://www.shawndishman.dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
